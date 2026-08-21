@@ -4,8 +4,8 @@ import { ArrowUpRight, ChevronDown, ExternalLink, Mail, Menu, X } from "lucide-r
 
 const navItems = [
   { label: "Experience", href: "#experience" },
-  { label: "Operations", href: "#operations" },
   { label: "Cases", href: "#cases" },
+  { label: "Operations", href: "#operations" },
   { label: "Toolkit", href: "#toolkit" },
   { label: "Ohora Operation Hypo", href: "#ohora" },
   { label: "Why Me", href: "#fit" },
